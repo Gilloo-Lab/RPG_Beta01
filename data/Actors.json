@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":5,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":3,"maxLevel":99,"name":"Fulguro","nickname":"Le boucher de la Comté","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":5,"equips":[31,0,0,5,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":3,"maxLevel":99,"name":"Belinda","nickname":"La hyène des Carpates","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0,65,21,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jessicaraté","nickname":"Mawashigeri dans ta face","note":"","profile":""},
+{"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":5,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":2,"maxLevel":99,"name":"Bellator Junior","nickname":"Tire mon petit doigt","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
